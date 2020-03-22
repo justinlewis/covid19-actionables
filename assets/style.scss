@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  text-align: center;
+  text-align: left;
 
   @include mobile {
     line-height: 1.4;
@@ -414,7 +414,7 @@ nav {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 89px;
+  height: 90px;
   background-color: $lightGray;
 }
 
@@ -488,6 +488,82 @@ body:after {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
 }
+
+
+/* --------------------------------
+
+Custom
+
+-------------------------------- */
+
+.solution-panel{
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.solution-panel a {
+  color: #9700e4;
+}
+.solution-panel a:hover {
+  color: #c38fde;
+}
+
+.solution-header{
+
+}
+
+.solution-problem{
+
+}
+.solution-problem strong{
+  color: #9700e4;
+}
+
+.solution-solution{
+
+}
+.solution-solution strong{
+  color: #9700e4;
+}
+
+.solution-description{
+
+}
+.solution-description strong{
+  color: #9700e4;
+}
+
+.solution-contact-icon{
+  font-size: 30px;
+}
+.solution-source-button{
+  font-style: italic;
+  display: block;
+  // color: #9700e4;
+  float: right;
+}
+
+.solution-help-info{
+  display: block;
+  padding-bottom: 10px;
+  // color: #9700e4;
+}
+
+.solution-link{
+  display: block;
+  padding-bottom: 10px;
+  // color: #9700e4;
+}
+
+.solution-company-link {
+  display: block;
+  // color: #9700e4;
+}
+
+
 
 /* --------------------------------
 
@@ -611,7 +687,7 @@ Modules - reusable parts of our design
 
 #gh-latest{
     font-size: 16px;
-    text-align: center;		
+    text-align: center;
 }
 
 .text-link {
@@ -714,7 +790,7 @@ Modules - reusable parts of our design
   display: inline-block;
 }
 
-.pagination a {    
+.pagination a {
   &:hover {
       background-color: #f1f1f1;
       color: #333;
