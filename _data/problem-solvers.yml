@@ -23,13 +23,10 @@
 - title: COVID Act Now
   problem: Information about when a community needs to act is unclear.
   solution: This tool is built to enable political leaders to quickly make decisions in their Coronavirus response informed by best available data and modeling.
-  logo: covid-act-now-logo.jpg
+  logo: covid-act-now-logo.png
   url: https://covidactnow.org/
   twitter:
   facebook:
   source: https://covidactnow.org/
   helpinfo:
   description: Created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region.
-
-
-  
