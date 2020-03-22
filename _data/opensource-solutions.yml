@@ -11,8 +11,14 @@
   company: ISINNOVA
   companylink: https://www.isinnova.it/
 
+- title: SafePaths
+  link: http://safepaths.mit.edu/
+  description: An app that notifies someone if they've crossed paths with someone known to be COVID-19 positive.
+  company: MIT
+  companylink: http://safepaths.mit.edu/
+
 - title: (Call To Action) Design And Build An Open Source Ventilator
   link: https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/
   description: Crowdsourcing knowledge to determine how to build ventilators to fill a gap in production.
-  company: Published on HACKADAY 
+  company: Published on HACKADAY
   companylink: https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/
