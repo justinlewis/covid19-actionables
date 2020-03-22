@@ -17,5 +17,19 @@
   twitter: https://twitter.com/NextepInc?s=20
   facebook: https://www.facebook.com/NextepInc/
   source: https://nextep.group/?fbclid=IwAR1bHiCgE-Laa9Id5K5Btg0v8QcfxysM1RT3KPfQhYYo_KMCgt9DcCN4TWo
-  helpinfo: https://docs.google.com/forms/d/e/1FAIpQLSe015Ylohgm7hE5lRsekdK01_OqElYeSAzqyHx7HbOmrJ_MjQ/viewform
+  helpinfo:
   description: It is our intention to offer fast pro-bono support on the most urgent issues related to remote work. This may include legal, HR, or IT advice but also help with leadership or team collaboration.
+
+- title: COVID Act Now
+  problem: Information about when a community needs to act is unclear.
+  solution: This tool is built to enable political leaders to quickly make decisions in their Coronavirus response informed by best available data and modeling.
+  logo: covid-act-now-logo.jpg
+  url: https://covidactnow.org/
+  twitter:
+  facebook:
+  source: https://covidactnow.org/
+  helpinfo:
+  description: Created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region.
+
+
+  
