@@ -21,16 +21,16 @@ permalink: /problem-solvers/
     <a href="{{solution.helpinfo}}" class="solution-help-info" target="_blank">Ask for their help</a>
     {% endif %}
 
-    {% if solution.source %}
-    <a href="{{solution.source}}" class="solution-source-button" target="_blank">Source</a>
-    {% endif %}
-
     {% if solution.twitter %}
     <a href="{{solution.twitter}}" style="color:#1DA1F2;" class="fab fa-twitter solution-contact-icon" target="_blank"></a>
     {% endif %}
 
     {% if solution.facebook %}
     <a href="{{solution.facebook}}" style="color: #4267b2;" class="fab fa-facebook solution-contact-icon" target="_blank"></a>
+    {% endif %}
+
+    {% if solution.source %}
+    <a href="{{solution.source}}" class="solution-source-button" target="_blank">Source</a>
     {% endif %}
 
   </div>
