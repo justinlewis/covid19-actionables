@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solution Providers
+title: Problem Solvers
 permalink: /problem-solvers/
 ---
 
