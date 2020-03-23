@@ -30,3 +30,14 @@
   source: https://covidactnow.org/
   helpinfo:
   description: Created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region.
+
+- title: We Can Sew It
+  problem: There's not enough personal protective equipment (PPE) for medical staff on the front lines.
+  solution: Open source sewing patterns for PPE to enable the community to make PPE.
+  logo: wecansewit-logo.png
+  url: https://operationwecansewit.com/wp-content/uploads/2020/03/We-Can-Sew-It-Mask-Pattern-2.20.20-v4.pdf?fbclid=IwAR28wieMmgN_kzwI-i4rfwKvg2olCRtCQz9dDrGMiL3ei1QO8HQdW5s0kCI
+  twitter:
+  facebook:
+  source: https://operationwecansewit.com/
+  helpinfo:
+  description: These people are amazing!
