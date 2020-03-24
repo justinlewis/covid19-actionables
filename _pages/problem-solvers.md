@@ -16,8 +16,8 @@ permalink: /problem-solvers/
     <p class="solution-problem"><strong>Problem:</strong> {{solution.problem}}</p>
     <p class="solution-solution"><strong>Solution:</strong> {{solution.solution}}</p>
     <p class="solution-solution">
-      <strong>The People:</strong>
-      <a href="{{solution.url}}" target="_blank">Link</a>
+      <strong>The People:</strong>  
+      <a style="margin-left: 10px;border-bottom: solid 1px #9700e4;" href="{{solution.url}}" target="_blank">Link</a>
     </p>
     <!-- <p class="solution-description"><strong>Description:</strong> {{solution.description}}</p> -->
 
