@@ -34,3 +34,9 @@
   description: Forum for new or established projects helping with the COVID-19 crisis that need help. Volunteer yourself or create a new one.
   company: Community Driven
   companylink: https://helpwithcovid.com/
+
+- title: COVID Near You
+  link: https://covidnearyou.org/
+  description: Self reporting symptom app built by experts in health.
+  company: Harvard & Boston Childrens Hospital
+  companylink: https://covidnearyou.org/
