@@ -41,8 +41,14 @@
   company: Harvard & Boston Childrens Hospital
   companylink:
 
-- title: DIY PPE Information 
+- title: DIY PPE Information
   link: https://docs.google.com/document/d/1os3YJtmbeqSp2i8BEUSqJxp9oBTIy0CIC2mLMNV26oc/edit
   description: Cowd sourced doc of DIY PPE information.
   company: Community Driven
   companylink:
+
+- title: COVID-19 Case Data Aggregation and Visualization
+  link: https://coronavirus.1point3acres.com/en
+  description: Curated and cowd sourced data and visualization.
+  company: 1point3acres
+  companylink: https://www.1point3acres.com/
