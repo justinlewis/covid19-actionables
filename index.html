@@ -14,7 +14,9 @@ title: Solutions
     <p class="solution-description"><strong>Description:</strong> {{solution.description}}</p>
     <a href="{{solution.link}}" class="solution-link" target="_blank">The Solution</a>
 
+    {% if solution.company %}
     <a href="{{solution.companylink}}" class="solution-company-link" target="_blank"><strong>Created by:</strong> {{solution.company}}</a>
+    {% endif %}
 
   </div>
 

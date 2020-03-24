@@ -16,7 +16,7 @@
   url: https://nextep.group/?fbclid=IwAR1bHiCgE-Laa9Id5K5Btg0v8QcfxysM1RT3KPfQhYYo_KMCgt9DcCN4TWo
   twitter: https://twitter.com/NextepInc?s=20
   facebook: https://www.facebook.com/NextepInc/
-  source: https://nextep.group/?fbclid=IwAR1bHiCgE-Laa9Id5K5Btg0v8QcfxysM1RT3KPfQhYYo_KMCgt9DcCN4TWo
+  source:
   helpinfo:
   description: It is our intention to offer fast pro-bono support on the most urgent issues related to remote work. This may include legal, HR, or IT advice but also help with leadership or team collaboration.
 
@@ -27,7 +27,7 @@
   url: https://covidactnow.org/
   twitter:
   facebook:
-  source: https://covidactnow.org/
+  source:
   helpinfo:
   description: Created by a team of data scientists, engineers, and designers in partnership with epidemiologists, public health officials, and political leaders to help understand how the COVID-19 pandemic will affect their region.
 
@@ -49,7 +49,7 @@
   url: https://www.facebook.com/groups/MillionMaskChallengeSpokane/
   twitter:
   facebook: https://www.facebook.com/groups/MillionMaskChallengeSpokane/
-  source: https://www.facebook.com/groups/MillionMaskChallengeSpokane/
+  source:
   helpinfo:
   description: These people are amazing!
 
@@ -60,6 +60,6 @@
   url: https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
   twitter:
   facebook: https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
-  source: https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
+  source:
   helpinfo:
   description: These people are amazing!
