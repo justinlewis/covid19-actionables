@@ -63,3 +63,14 @@
   source:
   helpinfo:
   description: These people are amazing!
+
+- title: Helpful Engineering
+  problem: The engineering community is eager to help but needs to organize.
+  solution: Helpful Engineering is designing, sourcing and executing projects to help people suffering from the COVID-19 crisis worldwide.
+  logo: helpful-engineering-logo.png
+  url: https://www.helpfulengineering.org/
+  twitter:
+  facebook:
+  source:
+  helpinfo:
+  description: 
