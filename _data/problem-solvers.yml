@@ -73,4 +73,15 @@
   facebook:
   source:
   helpinfo:
-  description: 
+  description:
+
+- title: Code For America
+  problem: The engineering community is eager to help but needs to organize.
+  solution: Code For America to the rescue!
+  logo: code-for-america-logo.png
+  url: https://www.usdigitalresponse.org/
+  twitter:
+  facebook:
+  source:
+  helpinfo:
+  description:
