@@ -52,3 +52,9 @@
   description: Curated and cowd sourced data and visualization.
   company: 1point3acres
   companylink: https://www.1point3acres.com/
+
+- title: COVID-19 Social Distancing Scoreboard (U.S. States)
+  link: https://www.unacast.com/covid19
+  description: Harvesting cell phone data to determine social distancing participation rates.
+  company: UnaCast
+  companylink: https://www.unacast.com/
