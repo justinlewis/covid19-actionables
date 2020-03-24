@@ -21,7 +21,7 @@
   link: https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/
   description: Crowdsourcing knowledge to determine how to build ventilators to fill a gap in production.
   company: Published on HACKADAY
-  companylink: 
+  companylink:
 
 - title: Fabric Mask Sewing Design
   link: https://seattlemakers.org/sewn-mask/
@@ -39,4 +39,10 @@
   link: https://covidnearyou.org/
   description: Self reporting symptom app built by experts in health.
   company: Harvard & Boston Childrens Hospital
+  companylink:
+
+- title: DIY PPE Information 
+  link: https://docs.google.com/document/d/1os3YJtmbeqSp2i8BEUSqJxp9oBTIy0CIC2mLMNV26oc/edit
+  description: Cowd sourced doc of DIY PPE information.
+  company: Community Driven
   companylink:
