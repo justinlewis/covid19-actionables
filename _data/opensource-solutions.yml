@@ -76,3 +76,9 @@
   description: Crowd sourcing sites to get tested for COVID-19.
   company: Community Driven
   companylink: https://findcovidtesting.com/
+
+- title: COVIDCareMap
+  link: https://www.covidcaremap.org/maps/us-healthcare-system-capacity/#3.5/38/-96
+  description: We use open data on hospital bed capacity to provide a current view of the US health system's capacity to care for severely ill COVID-19 patients.
+  company: Community Driven
+  companylink: https://www.covidcaremap.org/maps/us-healthcare-system-capacity/#3.5/38/-96
